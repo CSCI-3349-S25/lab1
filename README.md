@@ -10,7 +10,7 @@
 * Type ```git clone``` and then paste in what you copied, above.
 
 
-3. Now, navigate in the file system to the folder on your computer where you cloned this repo, and you will see a file called ``ps1.html``. Double click on the file, which will launch it in your web browser, and then complete the assignment as described in the file.
+3. Now, navigate in the file system to the folder on your computer where you cloned this repo, and you will see a file called ``lab1.html``. Double click on the file, which will launch it in your web browser, and then complete the assignment as described in the file.
 
 4. You'll be submitting the completed assignment using GitHub. Again, if this is new to you, use the GitHub Desktop app or use the command line as I showed you in class: ``git add <filename>``, ``git commit -m "your comment"``, ``git push``. 
 
