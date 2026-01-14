@@ -1,5 +1,5 @@
 # Lab 1
-1. If you got here any way other than through accepting the invitation I put on Canvas, stop now! Go back to Canvas to accept the GitHub classroom invitation. That is how you create your own copy of the repo. You cannot commit to anything but your own copy of the repo that is created by Google Classroom when you accept the invitatoin.
+1. If you got here any way other than through accepting the invitation I put on Canvas, stop now! Go back to Canvas to accept the GitHub classroom invitation. That is how you create your own copy of the repo. You cannot commit to anything but your own copy of the repo that is created by Google Classroom when you accept the invitation.
 
 2. If you aren't sure whether you have `git` installed on your computer, [follow these directions for installing `git` on your computer](https://github.com/git-guides/install-git). You might already have it installed, so be sure to check as described in these instructions.
 
