@@ -14,4 +14,4 @@
 
 4. You'll be submitting the completed assignment using GitHub. Again, if this is new to you, use the GitHub Desktop app or use the command line as I showed you in class: ``git add <filename>``, ``git commit -m "your comment"``, ``git push``. 
 
-**This lab is due Monday, January 20 @ 11:59pm**
+**This lab is due Thursday, January 22 @ 11:59pm**
